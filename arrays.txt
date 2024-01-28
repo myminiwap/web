@@ -1,4 +1,5 @@
-[ [ 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg' ],
+{
+  "data": [ [ 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg', 'fggfgfg' ],
   [ 'gfgfgdfg',
     'gfgfgdfg',
     'gfgfgdfg',
@@ -36,3 +37,4 @@
     'sdfsdfsf' ],
   [ 'sfsssf', 'sfsssf', 'sfsssf', 'sfsssf', 'sfsssf', 'sfsssf' ],
   [ 'dfdfd', 'dfdfd', 'dfdfd', 'dfdfd', 'dfdfd', 'dfdfd' ] ]
+}
