@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "DT_RowId": "row_3",
+      "users": {
+        "first_name": "Cruz",
+        "last_name": "Reynolds",
+        "phone": "1-776-102-6352",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    },
+    {
+      "DT_RowId": "row_9",
+      "users": {
+        "first_name": "Kuame",
+        "last_name": "Wynn",
+        "phone": "1-101-692-4039",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    },
+    {
+      "DT_RowId": "row_15",
+      "users": {
+        "first_name": "Veronica",
+        "last_name": "Marks",
+        "phone": "1-750-981-6759",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    },
+    {
+      "DT_RowId": "row_21",
+      "users": {
+        "first_name": "Perry",
+        "last_name": "Gamble",
+        "phone": "1-440-976-9560",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    },
+    {
+      "DT_RowId": "row_27",
+      "users": {
+        "first_name": "Ifeoma",
+        "last_name": "Mays",
+        "phone": "1-103-883-0962",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    },
+    {
+      "DT_RowId": "row_33",
+      "users": {
+        "first_name": "Rhonda",
+        "last_name": "Harrell",
+        "phone": "1-934-906-6474",
+        "site": "3"
+      },
+      "sites": {
+        "name": "Paris"
+      }
+    }
+  ],
+  "options": {
+    "users.site": [
+      {
+        "label": "Edinburgh",
+        "value": "1"
+      },
+      {
+        "label": "London",
+        "value": "2"
+      },
+      {
+        "label": "Los Angeles",
+        "value": "6"
+      },
+      {
+        "label": "New York",
+        "value": "4"
+      },
+      {
+        "label": "Paris",
+        "value": "3"
+      },
+      {
+        "label": "Singapore",
+        "value": "5"
+      }
+    ]
+  },
+  "files": []
+}
