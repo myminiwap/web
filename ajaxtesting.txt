@@ -65,7 +65,7 @@
     [
       "7BA5048A-9FE4-4079-A424-0F788CE19250",
       "ENFORTURE",
-      "mohd shah iskandar bin hj. tuan tunggul kayu balak jsjsjs sjsisjss jsjsis sjsisisd jsisjsjdjs djdjdj",
+      "mohd shah iskandar bin hj. tuan tunggul kayu balak",
       "Bangladesh",
       "1234567891011",
       "2024-03-30",
