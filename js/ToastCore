@@ -1,7 +1,7 @@
 <!--
 =====================================================
  UI MODULE : TOAST CORE
- Version   : v1.1.1
+ Version   : v1.1.2
  Status    : CLEAN / PRODUCTION
 =====================================================
 -->
@@ -42,10 +42,10 @@
 
 .toast.show { opacity: 1; }
 
-.toast.info    { background: #1565c0; }
-.toast.success { background: #2e7d32; }
+.toast.info    { background: #8cbcf2; }
+.toast.success { background: #a6d8a8; }
 .toast.error   { background: #c62828; }
-.toast.warn    { background: #ed6c02; }
+.toast.warn    { background: #feb981; }
 
 /* ===============================
    LOADER (NON-BLOCKING)
